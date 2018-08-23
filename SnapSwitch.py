@@ -1,3 +1,8 @@
+"""
+This script matches the positions of the IK and FK controls, in order to allow the animator to easily 
+switch between these two modes without having any popping in the limbs.
+"""
+
 import math
 
 from maya import OpenMaya as om
