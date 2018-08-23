@@ -1,6 +1,6 @@
 from maya import cmds, OpenMaya
 
-# This script creates the required nodes for the lips and eyebrows
+# This script creates the required nodes for the lip and eyebrow joints of the facial rig
 # Uses pointOnCurveInfo nodes to drive the joint translations and matrix nodes to drive the rotations
 
 # Selection list of the relevant joints
